@@ -1,0 +1,113 @@
+The Constitution of the Hellenic League
+Rules
+Offences
+Greifing, scamming, stealing (outside of missions), or FP robbing.
+Healing, driving, shield bombing or attacking against members, allies or neutrals. 
+Impersonation of people or clans.
+Ignoring legitimate orders from a higher-ranked commander.
+Helping proscribed people.
+Knowingly and willingly lying to or attempting to deceive the assembly or any whom it has delegated authority to.
+Proscriptions
+Offences will be tried by a panel consisting of at least half of currently elected online archons, which then vote on the final verdict.
+Offences will lead to proscription of the offender until the victim is paid an amount decided by the judges, or the victim chooses to forgive the offender.
+Committing any offences against proscribed people is allowed.
+Clan Structure
+Elections
+Elections are held every two weeks.
+The preceding 48 hours from the election start time allows any eligible candidates to present their self-nominations.
+Voting lasts 24 hours.
+If there is a tie in the election a runoff shall happen to resolve it.
+If an archon or senator resigns from their position more than five days from the start of the next election an additional election shall take place to fill their position.
+In the event of vote fraud all votes cast by the perpetrator shall be ignored, and the perpetrator demoted to recruit.
+All members can vote in elections.
+Any candidates which offer incentives exclusively for those who vote for them and not for the wider membership of the clan will be disqualified from running in any elections they are presently entered into.
+Campaign promises presented in elections by winning candidates are legally binding, unless the assembly later votes against the implementation.
+Votes
+All citizens can start a vote in the assembly.
+All members can vote in the assembly.
+All members of the senate can start a vote in the senate.
+All members of the senate can vote in the senate.
+Voting will last a minimum of 24 hours from the vote first being posted, creator of the vote may prolong voting timer only once by an addition of another 24 hours if less than 40% of citizens have participated in it.
+The vote can end early if voting from all who are yet to vote can’t alter the final result.
+If the vote is at a draw by the time it has concluded the status-quo shall be maintained.
+In the event of vote fraud all votes cast by the perpetrator shall be ignored.
+A vote can override any decree.
+No vote can be retroactive.
+A vote to remove an archon, senator, officer or secretary of state can be initiated in the assembly with a clearly stated reason.
+A vote challenging a decree pauses the implementation of that decree for the duration of the vote.
+Decree
+No decree can be retroactive.
+Only Archons can issue decrees.
+No more than 3 decrees may be issued by the same person within a 24 hour period
+
+
+Emergency Powers
+Fifty percent of the online voters or all archons are needed to trigger an emergency.
+This article can be in force for a maximum of 3 days from one vote.
+To extend the state of emergency a vote must pass to extend it.
+Should any archon wish to end the state of emergency they may end it.
+Should the assembly vote, they may force the state of emergency to end early.
+The kankelarios can freeze the balance of any person.
+The decrees can temporarily override votes of the assembly.
+Any archon can temporarily remove membership from any unelected person.
+Hellenes
+Members of a hellene clan are entitled to membership of HL.
+An attack on a member of HL using proper HL tags is an attack on all HL members and Hellenes.
+A declaration of war on a hellene or HL is a declaration of war on all hellenes and HL unless otherwise specified by the warred party
+Applying Hellenes need to be approved in a majority vote by the Assembly.
+When HL is at war with any clans, all Hellenes must treat each other as allies.
+When HL is at peace with all clans, Hellenes are free to choose relations with each other.
+Linguine.
+In order for the Hellenic League to declare war, the assembly must pass a vote to war.
+Institutions
+Assembly
+The assembly is a body consisting of all members of the clan, this institution elects senators and archons. Votes are also conducted in the assembly, a vote conducted in the assembly can only be overruled by a later vote by the assembly.
+All powers are the exclusive reserve of the assembly unless otherwise delegated; the assembly can never remove its right to exercise any powers, it may only grant permission for others to exercise them on its behalf.
+Senate
+The senate is a body consisting of all senators and secretaries of state, this institution can conduct votes which can overrule decrees but be overruled by the assembly. The senate will also be available to advise individuals and institutions both above and below it on any matters they feel qualified to do so. The senate will also be available to produce reports on any topic for which they are qualified.
+Distribution
+Distribution Systems
+Payments are made to people that help and are proportional to the profit produced.
+Every day all the profits will be divided up and paid out as shares in the materials produced.
+Balances can be used to buy ships, materials or withdrawn at any reasonable time.
+People who are a threat to HL will have their balance frozen.
+Distribution activities which produce profit must be logged.
+Designers will get a total 5% share of all profits made by distribution selling their designs.
+Distribution Fleet
+Members of the military can be given access to ships on a case by case basis.
+The commander who uses or orders use of a ship is responsible for updating the spreadsheet.
+A person that donates a ship to the fleet is able to select an appropriate name for it.
+If a commander orders a battle ignoring factors, the commander shall repair and refill all ships.
+All loot made by the distribution fleet is the property of distribution.
+When a ship is decommissioned it will be returned to the donor, refitted, or scrapped.
+People may lease distribution fleet ships in exchange for freezing an amount of flux from their balance which holds the same value as the ship they intend to lease, they can reclaim this flux in full when the ship is returned in pristine condition, if the ship is not returned in pristine condition the frozen flux will be used to fund repairs/replacement.
+Ranks
+Political Ranks
+The rank of secretary of state gives powers within the department which they run as well as automatic membership of the senate. Only archons may be appointed to this position. A retiring secretary of state can appoint a replacement.
+The rank of archon gives decree power to all that hold it. The number of archons is set at 5. Archons are selected by election, any member of the senate is able to stand for and hold this position.
+The rank of senator grants all that hold it membership of the senate, this position is elected, the candidate must be a citizen to be able to stand and hold this position the number of senators is set at 15% of the current citizen count, rounded to the nearest whole number.
+The rank of officer is given to those entrusted to perform specific roles within a department. In most cases this work is paid. Officers are selected by Secretaries of State.
+The rank of citizen gives membership of the assembly to all that hold it. Archons are responsible for the elevation of recruits to citizens. The senate can vote to revoke the citizen rank from any citizen who holds no elected position, an Archon can temporarily suspend the citizenship of an inactive citizen for the duration of their inactivity.
+The rank of recruit gives no powers to those which hold it. A recruit can be removed by an archon. The archons are responsible for accepting or rejecting applications to the clan. A member will receive 160 Flux from distribution if they recruit an active citizen, an active citizen is defined as someone who has participated in a minimum of five logged distribution activities within one week of joining the clan.
+Department of the Exterior Ranks
+Admiral is the secretary of state for diplomacy and military. The admiral is responsible for the procurement of military vessels for the distribution fleet.
+Commander is the upper officer rank for the military; they are qualified to command battles or other military situations. They can promote people to captain with approval from higher ranking military officials.
+Captain is the lower military officer rank; they are qualified for piloting ships in battle commonly in key battleships. They can promote people to corporal with approval from higher ranking military officials. 
+Corporal is a pilot qualified for piloting ships in emergency or evasive actions.
+Unranked, an unranked military pilot should not drive ships in battle unless directly ordered to do so.
+Distribution Department Ranks
+The chancellor is the secretary of state for the economy, they are responsible for coordinating the procurement of infrastructure and material collection ships for the distribution fleet.
+Fleet managers are officers which conduct refilling, repairing, unloading and transporting of ships in the distribution fleet. Due to the transportation requirements they must hold at minimum the military position of corporal.
+Officers of construction claim orders from the orders to claim list and complete them.
+Officers of material borrow farmers from the distribution fleet for the purpose of filling them and then being logged, they shall repair any damage incurred to the ships they have borrowed. They must hold at minimum the military position of corporal.
+Officers of missions borrow mission ships from the distribution fleet for the purpose of filling them and then being logged, they shall repair any damage incurred to the ships they have borrowed. They must hold at minimum the military position of corporal.
+Officers of the treasury would serve the role of handling withdrawals/deposits under the value of 2.5k flux at all times where possible. They would be required to maintain a minimum of 5k flux value in their balance at all times to insure against any attempts at scamming.
+
+
+
+cry.io
+perish
+ The hellenic league is at war with clans owned/operated by Panama/dozer
+
+
+
